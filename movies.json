@@ -1,8 +1,5 @@
 {
- "movies": [
-    {
-      "movies_number":"2"
-    },  
+ "movies": [ 
     {
       "titolo":"Toy Story 1",
       "anno":"1998",
