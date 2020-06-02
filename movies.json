@@ -1,6 +1,9 @@
 {
  "movies": [
     {
+      "movies_number":"2"
+    },  
+    {
       "titolo":"Toy Story 1",
       "anno":"1998",
       "stelle":"cinque"
